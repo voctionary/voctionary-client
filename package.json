@@ -1,6 +1,6 @@
 {
-  "homepage": "https://voctionary.github.io/voctionary-react/",
-  "name": "voctionary-react",
+  "homepage": "https://voctionary.github.io/voctionary-client/",
+  "name": "voctionary-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
