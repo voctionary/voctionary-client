@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/voctionary-client/static/css/main.b8359767.css",
+    "main.js": "/voctionary-client/static/js/main.5373f3c8.js",
+    "index.html": "/voctionary-client/index.html",
+    "main.b8359767.css.map": "/voctionary-client/static/css/main.b8359767.css.map",
+    "main.5373f3c8.js.map": "/voctionary-client/static/js/main.5373f3c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8359767.css",
+    "static/js/main.5373f3c8.js"
+  ]
+}
